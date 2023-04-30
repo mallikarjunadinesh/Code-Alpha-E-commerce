@@ -1,0 +1,225 @@
+.top1 {
+    height: 100px;
+    background-color: black;
+
+}
+.tname {
+    font-size: 30px;
+    padding: 1.5%;
+}
+.himg {
+    background-color:black;
+    height: 550px;
+    width: 55%;
+    
+    /* display: none; */
+}
+.himg img{
+    padding: 2%;
+}
+.himg h1{
+    text-align: right;
+    padding-left: 2%;
+}
+.animematter{
+    height: 550px;
+    background-color:black;
+    width: 45%;
+    color:white;
+}
+.animematter{
+    padding-top: 2%;
+    padding-left: 2%;
+}
+
+
+.tsale {
+    text-align: center;
+    padding-top: 1%;
+    color:black;
+    margin-bottom: 1%;
+  
+}
+.topsale{
+    height: 400px;
+    width: 25%;
+    background-color: black;
+   
+    
+    margin-left: 20px;
+    
+}
+.tops{
+    margin-right: 20px;
+    padding-top: 1%;
+}
+.topsale img {
+    height: 100%;
+    width: 100%;
+    
+}
+.topsale p {
+    display: inline-block;
+   font-size: 25px;
+    font-weight: bold;
+    margin-left: 6%;
+    text-decoration-line: line-through;
+   
+    
+  
+}
+center .ptop {
+   text-decoration: none;
+}
+.topsale:hover{
+    border-style: solid;
+}
+
+.asale{
+    text-align: center;
+    color: black;
+    padding-top: 5%;
+}
+.animesearch {
+    margin-right: 20px;
+    padding-top: 1%;
+}
+.animesale {
+    height: 500px;
+    width: 25%;
+    background-color: black;
+    
+    margin-left: 20px;
+}
+.animesale img{
+    height: 100%;
+    width: 100%;
+}
+
+.animesale:hover{
+    border-style:solid;
+    border-radius: 1px;
+}
+
+.charsearch {
+    margin-right: 20px;
+    padding-top: 1%;
+}
+
+
+.charsale {
+    height: 500px;
+    width: 25%;
+    background-color: blanchedalmond;
+    
+    margin-left: 20px;
+}
+.charsale img{
+    height: 100%;
+    width: 100%;
+}
+.movsearch {
+    margin-right: 20px;
+    padding-top: 1%;
+    margin-bottom: 1%;
+}
+
+.movsale {
+    height: 500px;
+    width: 25%;
+    background-color: blanchedalmond;
+    
+    margin-left: 20px;
+}
+.movsale img{
+    height: 100%;
+    width: 100%;
+}
+.foot{
+    background-color:black;
+    height: 400px;
+   
+    
+}
+
+.about {
+    color: white;
+    font-weight: bold;
+    height: 400px;
+    width: 25%;
+    
+}
+
+.copy{
+    height: 400px;
+    width: 25%;
+}
+.about h2{
+    text-align: center;
+    padding-top: 3%;
+}
+.support {
+    height: 400px;
+    padding-left: 3%;
+}
+
+.footer{
+    background: #000;
+    color: #8a8a8a;
+    font-size: 14px;
+    padding: 60px 0 20px;
+}
+.footer p{
+    color: #8a8a8a;
+}
+.footer h3{
+    color: #fff;
+    margin-bottom: 20px;
+}
+.footer-col-1, .footer-col-2, .footer-col-3, .footer-col-4{
+    min-width: 250px;
+    margin-bottom: 20px;
+}
+.footer-col-1{
+    flex-basis: 30%;
+}
+.footer-col-2{
+    flex: 1;
+    margin-bottom: 20px;
+}
+.footer-col-3, .footer-col-4{
+    flex-basis: 12%;
+    text-align: center;
+}
+.myi{
+    background-size: cover;
+}
+
+    
+
+
+.ul2{
+    list-style-type: none;
+
+}
+.footer hr{
+    border: none;
+    background: #b5b5b5;
+    height: 1px;
+    margin: 20px 0;
+}
+.copyright{
+    text-align: center;
+}
+.menu-icon{
+    width: 28px;
+    margin-left: 20px;
+    display: none;
+}
+
+
+
+
+
+
+
