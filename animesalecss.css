@@ -1,0 +1,121 @@
+.top1{
+    background-color: black;
+    height: 100px;
+    
+}
+.top{
+    width: 17%;
+    padding: 1.5%;
+}
+.top1 h1{
+    font-size: 30px;
+    padding: 1.5%;
+    color: whitesmoke;
+    text-decoration: none;
+    padding-top: 2.5%;
+    
+}
+.top1 a{
+    text-decoration: none;
+}
+
+.asale{
+    text-align: center;
+}
+
+.topsale{
+    height: 400px;
+    width: 25%;
+    background-color: black;
+    
+    
+    margin-left: 20px;
+    
+}
+.yourname {
+    height: 400px;
+    width: 50%;
+}
+.manga{
+    height: 400px;
+    width: 20%;
+    margin-left: 60px;
+}
+
+.topsale img {
+    height: 100%;
+    width: 100%;
+    
+}
+.topsale p {
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 6%;
+    text-decoration-line: line-through;
+   
+    
+  
+}
+center .ptop {
+   text-decoration: none;
+}
+.topsale:hover{
+    border-style: solid;
+}
+.tsale {
+    text-align: center;
+    padding-top: 1%;
+    color:black;
+    margin-bottom: 1%;
+  
+}
+.asale{
+    text-align: center;
+    color: black;
+    padding-top: 5%;
+}
+.tops1{
+    margin-top: 0%;
+}
+.charsale {
+    height: 500px;
+    width: 25%;
+    background-color: blanchedalmond;
+    
+    margin-left: 20px;
+}
+.charsale img{
+    height: 100%;
+    width: 100%;
+}
+.charsearch {
+    margin-right: 20px;
+    padding-top: 1%;
+    margin-bottom: 1%;
+}
+.charsale:hover{
+    border-style:solid;
+    border-radius: 1px;
+}
+.foot{
+    background-color:black;
+    height: 400px;
+   
+    
+}
+.about {
+    color: white;
+    font-weight: bold;
+    height: 400px;
+    width: 25%;
+    
+}
+.about h2{
+    text-align: center;
+    padding-top: 3%;
+}
+.support {
+    height: 400px;
+    padding-left: 3%;
+}
